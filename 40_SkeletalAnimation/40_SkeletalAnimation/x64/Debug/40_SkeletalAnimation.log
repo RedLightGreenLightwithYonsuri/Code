@@ -1,0 +1,62 @@
+﻿  skeletal_animation.cpp
+C:\forcg\utils\include\GLFW\glfw3.h(3235,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\forcg\utils\include\learnopengl\bone.h(45,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\utils\include\learnopengl\bone.h(56,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\utils\include\learnopengl\bone.h(67,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\utils\include\learnopengl\model_animation.h(174,37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\forcg\utils\include\learnopengl\animation.h(31,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\utils\include\learnopengl\animation.h(32,31): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\utils\include\learnopengl\animation.h(56,44): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\utils\include\learnopengl\animation.h(98,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\forcg\utils\include\mass.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\forcg\utils\include\mass.h(60,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\utils\include\plane.h(93,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+C:\forcg\utils\include\plane.h(94,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+C:\forcg\utils\include\plane.h(95,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+C:\forcg\utils\include\plane.h(115,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+C:\forcg\utils\include\plane.h(116,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+C:\forcg\utils\include\plane.h(117,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': 매크로 재정의
+C:\forcg\utils\include\glad\glad.h(32,1): message : 'APIENTRY'의 이전 정의를 참조하십시오.
+C:\forcg\utils\include\cube.h(129,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+C:\forcg\utils\include\cube.h(130,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+C:\forcg\utils\include\cube.h(131,76): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+C:\forcg\utils\include\arcball.h(82,27): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(382,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(508,60): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(515,72): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(587,53): warning C4244: '인수': 'genType'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              genType=double
+          ]
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(588,53): warning C4244: '인수': 'genType'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              genType=double
+          ]
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(589,53): warning C4244: '인수': 'genType'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              genType=double
+          ]
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(590,45): warning C4244: '인수': 'genType'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              genType=double
+          ]
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(617,18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(620,69): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(805,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(812,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(819,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(1050,74): warning C4312: '형식 캐스트': 'unsigned int'에서 더 큰 'void *'(으)로의 변환입니다.
+C:\forcg\40_SkeletalAnimation\40_SkeletalAnimation\skeletal_animation.cpp(1095,37): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\forcg\utils\include\learnopengl\bone.h(96): warning C4715: 'Bone::GetPositionIndex': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\forcg\utils\include\learnopengl\bone.h(106): warning C4715: 'Bone::GetRotationIndex': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\forcg\utils\include\learnopengl\bone.h(116): warning C4715: 'Bone::GetScaleIndex': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  40_SkeletalAnimation.vcxproj -> C:\forcg\40_SkeletalAnimation\x64\Debug\40_SkeletalAnimation.exe
